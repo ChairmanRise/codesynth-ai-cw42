@@ -1,4 +1,4 @@
-# 
+# Premium CodeSynth toolkit. Download and install with pre-configured-models and compatibility-check — fast, secure, and easy to use.
 
 
 
